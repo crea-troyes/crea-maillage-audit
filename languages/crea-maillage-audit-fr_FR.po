@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crea-maillage-audit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "Internal Linking Audit"
+msgstr "Audit du maillage interne"
+
+msgid "Linking"
+msgstr "Maillage"
+
+msgid "Access denied."
+msgstr "Accès refusé."
+
+msgid "Manual scan. Results are cached to avoid any front-end performance impact."
+msgstr "Analyse manuelle. Les résultats sont mis en cache pour éviter tout impact côté front-end."
+
+msgid "Display filter:"
+msgstr "Filtre d’affichage :"
+
+msgid "Posts"
+msgstr "Articles"
+
+msgid "Pages"
+msgstr "Pages"
+
+msgid "Posts + Pages"
+msgstr "Articles + Pages"
+
+msgid "Run scan"
+msgstr "Lancer l’analyse"
+
+msgid "Clear cache"
+msgstr "Vider le cache"
+
+msgid "Table (%d)"
+msgstr "Tableau (%d)"
+
+msgid "Global orphans (%d)"
+msgstr "Orphelins globaux (%d)"
+
+msgid "Isolated posts (%d)"
+msgstr "Articles isolés (%d)"
+
+msgid "Graph view"
+msgstr "Cartographie"
+
+msgid "No cached analysis found. Click %s."
+msgstr "Aucune analyse en cache trouvée. Cliquez sur %s."
+
+msgid "Content without internal incoming links based on current filter."
+msgstr "Contenus sans lien interne entrant selon le filtre actuel."
+
+msgid "Posts without post-to-post linking. Filter not applied on this tab."
+msgstr "Articles sans maillage article ↔ article. Filtre inactif sur cet onglet."
+
+msgid "You can zoom and drag the graph."
+msgstr "Vous pouvez zoomer et déplacer le graphe."
+
+msgid "Global overview based on current filter."
+msgstr "Vue globale selon le filtre actuel."
+
+msgid "Last scan: %s"
+msgstr "Dernière analyse : %s"
+
+msgid "Incoming links (posts)"
+msgstr "Liens entrants (articles)"
+
+msgid "Incoming links (pages)"
+msgstr "Liens entrants (pages)"
+
+msgid "Incoming links (posts + pages)"
+msgstr "Liens entrants (articles + pages)"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Internal outgoing links"
+msgstr "Liens internes sortants"
+
+msgid "External outgoing links"
+msgstr "Liens externes sortants"
+
+msgid "No results found."
+msgstr "Aucun résultat."
+
+msgid "Scan completed successfully."
+msgstr "Analyse terminée avec succès."
+
+msgid "Cache cleared successfully."
+msgstr "Cache supprimé avec succès."

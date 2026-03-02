@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crea-maillage-audit\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Internal Linking Audit"
+msgstr "Auditoría de enlazado interno"
+
+msgid "Linking"
+msgstr "Enlazado"
+
+msgid "Access denied."
+msgstr "Acceso denegado."
+
+msgid "Manual scan. Results are cached to avoid any front-end performance impact."
+msgstr "Análisis manual. Los resultados se almacenan en caché para evitar cualquier impacto en el front-end."
+
+msgid "Display filter:"
+msgstr "Filtro de visualización:"
+
+msgid "Posts"
+msgstr "Entradas"
+
+msgid "Pages"
+msgstr "Páginas"
+
+msgid "Posts + Pages"
+msgstr "Entradas + Páginas"
+
+msgid "Run scan"
+msgstr "Ejecutar análisis"
+
+msgid "Clear cache"
+msgstr "Vaciar caché"
+
+msgid "Table (%d)"
+msgstr "Tabla (%d)"
+
+msgid "Global orphans (%d)"
+msgstr "Huérfanos globales (%d)"
+
+msgid "Isolated posts (%d)"
+msgstr "Entradas aisladas (%d)"
+
+msgid "Graph view"
+msgstr "Vista del gráfico"
+
+msgid "No cached analysis found. Click %s."
+msgstr "No se encontró ningún análisis en caché. Haga clic en %s."
+
+msgid "Content without internal incoming links based on current filter."
+msgstr "Contenido sin enlaces internos entrantes según el filtro actual."
+
+msgid "Posts without post-to-post linking. Filter not applied on this tab."
+msgstr "Entradas sin enlazado entre entradas. El filtro no se aplica en esta pestaña."
+
+msgid "You can zoom and drag the graph."
+msgstr "Puede hacer zoom y mover el gráfico."
+
+msgid "Global overview based on current filter."
+msgstr "Vista general según el filtro actual."
+
+msgid "Last scan: %s"
+msgstr "Último análisis: %s"
+
+msgid "Incoming links (posts)"
+msgstr "Enlaces entrantes (entradas)"
+
+msgid "Incoming links (pages)"
+msgstr "Enlaces entrantes (páginas)"
+
+msgid "Incoming links (posts + pages)"
+msgstr "Enlaces entrantes (entradas + páginas)"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Internal outgoing links"
+msgstr "Enlaces internos salientes"
+
+msgid "External outgoing links"
+msgstr "Enlaces externos salientes"
+
+msgid "No results found."
+msgstr "No se encontraron resultados."
+
+msgid "Scan completed successfully."
+msgstr "Análisis completado correctamente."
+
+msgid "Cache cleared successfully."
+msgstr "Caché eliminada correctamente."
