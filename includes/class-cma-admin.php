@@ -208,7 +208,7 @@ final class CMA_Admin {
         echo '<p>'.esc_html($intro).'</p>';
 
         echo '<div class="cma-table-wrap">';
-        echo '<table class="widefat cma-dynamic-table striped">';
+        echo '<table id="tableau" class="widefat cma-dynamic-table striped">';
         echo '<tr>';
         echo '<th>' . esc_html__('Type', 'crea-maillage-audit') . '</th>';
         echo '<th>' . esc_html__('Title', 'crea-maillage-audit') . '</th>';
