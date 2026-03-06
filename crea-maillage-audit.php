@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Créa – Internal Linking Audit
  * Description: Internal linking audit (orphans, link table, graph). 100% admin, manual scan.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: GUILLIER Alban
  * Requires at least: 6.0
  * Requires PHP: 7.4
@@ -16,6 +16,7 @@ define('CMA_VERSION', '1.0.0');
 define('CMA_PATH', plugin_dir_path(__FILE__));
 define('CMA_URL', plugin_dir_url(__FILE__));
 define('CMA_OPTION_KEY', 'cma_scan_data');
+define('CMA_EXCLUDED_IDS_OPTION', 'cma_excluded_ids');
 
 /**
  * Load plugin textdomain
