@@ -96,3 +96,24 @@ msgstr "Análisis completado correctamente."
 
 msgid "Cache cleared successfully."
 msgstr "Caché eliminada correctamente."
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Settings saved successfully."
+msgstr "Configuración guardada correctamente."
+
+msgid "Excluded content from scan"
+msgstr "Contenido excluido del análisis"
+
+msgid "Enter the IDs of posts or pages to ignore during the internal linking scan."
+msgstr "Introduzca los IDs de las entradas o páginas que desea ignorar durante el análisis del enlazado interno."
+
+msgid "You can separate IDs with commas, spaces or line breaks."
+msgstr "Puede separar los IDs con comas, espacios o saltos de línea."
+
+msgid "Save settings"
+msgstr "Guardar configuración"
+
+msgid "Example: sponsored articles, seasonal pages, greetings pages, legal pages, etc."
+msgstr "Ejemplo: artículos patrocinados, páginas estacionales, páginas de felicitación, páginas legales, etc."
